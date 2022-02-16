@@ -20,15 +20,13 @@ identifying email_id as valid or invalid.
 # Original image:- The image below contains the email id in the email box that need to be validate.
 
 
-![Screenshot](https://github.com/nka218/email_id_validation/blob/main/backup/valid_invalid.png)
+![Screenshot](https://github.com/nka218/email_id_validation/blob/main/backup/1_d.png)
 
 
 
 - If  the below options are in blue then the email id is valid else it is invalid.
 
-Valid Email_id:-						Invalid Email_id:-
-
-
+![Screenshot](https://github.com/nka218/email_id_validation/blob/main/backup/valid_invalid.png)
 
 
 
