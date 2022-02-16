@@ -1,13 +1,13 @@
-# email_id_validationEmail id validation
+# nEmail id validation
 
-Objective: Classify email_id as valid or invalid email_id.
+# Objective: Classify email_id as valid or invalid email_id.
 
 This repository is an implementation of YOLO v3 to detect the bounding box and validate a email_id. 
 There are two models trained on top of each other. One is to detect the bonding box of the compose box 
 and other is to detect the bounding boxes of the option box that need to be classified and which is responsible for 
 identifying email_id as valid or invalid.
 
-Steps to classifiy an image in enable or disable:
+# Steps to classifiy an image in enable or disable:
 
 1. We trained a custom object detection model to detect:
     (1) compose box and saved this box in a folder.
@@ -17,7 +17,7 @@ Steps to classifiy an image in enable or disable:
 4. Masking the values that are not belonging to the lower and upper range by black colour and value of black colour is 0.
 5. Apply the threshold that if the value is greate than 0 then it is enable otherwise disable.
 
-Original image:- The image below contains the email id in the email box that need to be validate.
+# Original image:- The image below contains the email id in the email box that need to be validate.
 
 
 
@@ -33,7 +33,7 @@ Valid Email_id:-						Invalid Email_id:-
 
 
 
-Directory Structure:
+# Directory Structure:
 
 	|- root directory
 		|- assets
@@ -52,7 +52,7 @@ Directory Structure:
 		|- requirements.txt
 		|- Readme.md
 		
-How to use API:
+# How to use API:
 
 1. Clone the mail_box_identification API from Gitlab repsitiory.
 2. Extract the cloned zip file.
