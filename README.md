@@ -43,16 +43,17 @@ The image below contains the email_id in the email box that need to be validate.
 		|- temp
 		|- box_cut
 		|- enable_box 
-		|- lawplus.log
 		|- output 
 		|- Video_demo.mp4
-		|- cut_out  jupyter_pipeline.py 
+		|- cut_out  
+		|- jupyter_pipeline.py 
 		|-  __pycache
 		|- requirements.txt
 		|- Readme.md
 		
 # Links for model weights:-
-Link1 :- https://drive.google.com/file/d/1TAubicDFBfjAY8ZBTI4VSLyfeHyTUJPF/view?usp=sharing
+Link1 :- https://drive.google.com/file/d/1TAubicDFBfjAY8ZBTI4VSLyfeHyTUJPF/view?usp=sharing <br />
+
 Link2 :- https://drive.google.com/file/d/1aek4o-mRTHvGyEkBlOC1skyk3RPvnCo7/view?usp=sharing
 		
 # How to use API:
