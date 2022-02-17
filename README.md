@@ -58,7 +58,7 @@ Link2 :- https://drive.google.com/file/d/1aek4o-mRTHvGyEkBlOC1skyk3RPvnCo7/view?
 		
 # How to use API:
 
-1. Clone the mail_box_identification API from Gitlab repsitiory.
+1. Clone the **mail_box_identification** from Github repsitiory.
 2. Extract the cloned zip file.
 3. Run pip install -r requirements.txt.
 4. Download model weights from Link1  and put it into box_cut folder.( box_cut/converted.weights )
